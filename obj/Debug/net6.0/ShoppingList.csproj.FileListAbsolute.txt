@@ -1,0 +1,6 @@
+D:\Git\ShoppingList\obj\Debug\net6.0\ShoppingList.csproj.AssemblyReference.cache
+D:\Git\ShoppingList\obj\Debug\net6.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\ShoppingList\obj\Debug\net6.0\ShoppingList.AssemblyInfoInputs.cache
+D:\Git\ShoppingList\obj\Debug\net6.0\ShoppingList.AssemblyInfo.cs
+D:\Git\ShoppingList\obj\Debug\net6.0\ShoppingList.csproj.CoreCompileInputs.cache
+D:\Git\ShoppingList\obj\Debug\net6.0\ShoppingList.MvcApplicationPartsAssemblyInfo.cache
